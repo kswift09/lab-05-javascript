@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+var summer = 'icecream';
+var summer2='is delicious';
+
+console.log (summer2 + summer)
+
+</script>
+</body>
+</html>
